@@ -18,7 +18,7 @@ Outil d'audit matériel et de posture de sécurité sous Windows 11, générant 
 1. Windows 10/11 avec Python 3.8 ou supérieur.
 2. Cloner le dépôt :
    \\\ash
-   git clone https://github.com/TON_NOM_UTILISATEUR/Hardware-Sec-Audit.git
+   git clone https://github.com/sylvanuszoadanvaldoma64/Hardware-Sec-Audit.git
    cd Hardware-Sec-Audit
    \\\
 3. Installer les dépendances :
