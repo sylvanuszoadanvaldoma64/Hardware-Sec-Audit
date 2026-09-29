@@ -1,0 +1,12 @@
+﻿# Rapports générés (à ne pas pusher)
+*.html
+*.pdf
+*.json
+*.md
+!README.md
+
+# Environnement virtuel et cache Python
+.venv/
+venv/
+__pycache__/
+*.pyc
